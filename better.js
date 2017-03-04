@@ -7,5 +7,4 @@ this is next page
 this is next page
 this is next page
 even more changes
-and even more changes
 follower number one
